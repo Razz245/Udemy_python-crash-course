@@ -106,4 +106,3 @@ def variable_examples():
 #Optional Practice Idea
 print(f"Hi {name}, you are {age} years old, {height}m tall, and your blood group is {blood_group}.")
 print_examples()
-print_variable_examples()
